@@ -56,7 +56,10 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+For the first one, we store the customer address in the customer table (one line with the full address), so that if the client moves, the line will overwrite itself. 
+
+For the second one, we need to create a separate table (customer_address) with separate lines of street, number, and postal code, also a binary line that indicates if it is their current address or nor (0 for not,1 for yes), and  we can add a row with the date of registration, to have the story of registration of each address. 
+
 ```
 
 ***
