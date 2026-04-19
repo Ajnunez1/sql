@@ -209,5 +209,11 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+The article explains that Pakistan’s NADRA system does more than just record identity; it shapes identity by including ideas about family, legitimacy, and citizenship. This shows how digital identification systems can turn political and social values into strict administrative rules.
+
+The article shows that even small design choices can have big effects. Every choice is based on a political decision that can help or harm people. It highlights the story of Riz, who could not renew his ID or access basic services in Pakistan; this was not due to missing paperwork or legal issues, but because his family did not meet the database’s rule that every person must be linked to two married parents.
+
+Pakistan’s focus on lineage and descent for citizenship predates digital systems and stems from older bureaucratic practices; these ideas are still present in digital systems today. Databases apply rules automatically and do not allow exceptions, which makes these old rules more rigid and widespread than paper records, which allowed some flexibility.
+
+The article says that the Supreme Court of Pakistan told NADRA to add more gender identities to its registration system, and this was an easy change; however, not all changes are simple, for example, single mothers cannot register their children, so many either fake a marriage certificate or claim they received a sperm donation to complete the paperwork. Every change in the system is tied to strong beliefs, which can even cancel out political progress for more diversity by blaming system flaws. The article reminds us that information is not neutral, that the way systems are designed reveals the values and beliefs of their creators, and that the effects go far beyond technical details.
 ```
