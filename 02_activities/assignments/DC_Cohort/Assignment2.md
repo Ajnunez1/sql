@@ -194,5 +194,10 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+This essay points out a key ethical issue with the AI and how these systems can seem automated and neutral, but they actually depend on a lot of human work behind that can shape their outputs. The idea of “people all the way down” refers to the hidden workers who label data, moderate content, and fix outputs. This raises concerns about their working conditions, as many are underpaid, exposed to harmful substances, and rarely recognized, and studies on content moderation have found that moderators, especially those in outsourced jobs, commonly experience psychological harm and unstable employment.
+
+Bias is another major concern, since training data mosto of the times reflects real-world inequalities, since AI models can repeat and even strengthen stereotypes about gender, race, and class because they are trained with large collections of text that have those same biases, which can then affect decisions in hiring, policing, and credit of real persons, leading this is not just be a mechanical problem but a social one.
+
+This essay also questions who is responsible for AI outputs, because when many people are involved in the construction, design, and training of these models, it is hard to know who should be held accountable for the flaws that can lead to inequality. Companies might say the system runs on its own while workers stay hidden, since the model, after training, can appear to be that way, making it harder to create explicit rules and enforce the comopanies to have a more ethical training. Finally, the rapid growth of large language models aggravates these problems; more and more models are used every day, and they depend even more on hidden workers and biased data, and treating AI as separate from social issues might lead to greater inequality, even when it is called innovation.
+
 ```
